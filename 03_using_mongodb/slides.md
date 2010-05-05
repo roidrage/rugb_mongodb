@@ -95,7 +95,7 @@
 
     @@@ javascript
     > db.users.update({name: "Mathias Meyer"},
-      {
-        $push: {offspring: "Mari"}
-      }
-    )
+        {
+          $push: {offspring: "Mari"}
+        }
+      )

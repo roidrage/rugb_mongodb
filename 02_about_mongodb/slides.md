@@ -34,11 +34,11 @@
 
     @@@ javascript
     {
-        "regexp": /([OH])+(?:MI)(GAH)?(REGEXP)S?/,
+      "regexp": /([OH])+(?:MI)(GAH)?(REGEXP)S?/,
       
-        "created_at": Date(),
+      "created_at": Date(),
       
-        "_id": ObjectId()
+      "_id": ObjectId()
     }
 
 !SLIDE bullets incremental
