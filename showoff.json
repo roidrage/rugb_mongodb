@@ -1,5 +1,6 @@
 [
   {"section": "01_introduction"},
   {"section": "02_about_mongodb"},
-  {"section": "03_using_mongodb"}
+  {"section": "03_using_mongodb"},
+  {"section": "04_using_mongodb_with_ruby"}
 ]
