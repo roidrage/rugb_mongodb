@@ -18,7 +18,7 @@
 
 * Concurrency
 * Durability
-* Concistency
+* Consistency
 
 !SLIDE bullets incremental
 
