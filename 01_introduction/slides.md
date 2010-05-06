@@ -8,7 +8,7 @@
 * [@roidrage](http://twitter.com/roidrage)
 * <http://github.com/mattmatt>
 * Chief Visionary at Peritor
-* Clouds, NoSQL, it's all here
+* Ruby, Clouds, NoSQL, it's all here
 
 !SLIDE center
 ![Scalarium](scalarium.png)
