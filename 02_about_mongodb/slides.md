@@ -52,9 +52,7 @@
     @@@ javascript
     {
       "regexp": /([OH])+(?:MI)(GAH)?(REGEXP)S?/,
-      
       "created_at": Date(),
-      
       "_id": ObjectId()
     }
 

@@ -36,11 +36,8 @@
 
     @@@ javascript
     db.users.save({
-      
         name: "Mathias Meyer",
-        
         job_title: "Chief Visionary",
-        
         dark_side: true})
 
 !SLIDE
@@ -49,7 +46,6 @@
 
     @@@ javascript
     db.findOne({name: "Mathias Meyer"})
-    
     {"_id": ObjectId("4be1d50323173"), "name": ...
 
     
@@ -61,11 +57,8 @@
 
     @@@ javascript
     var cursor = db.users.find()
-    
     cursor.forEach(function(user) {
-      
       print(tojson(user));
-      
     })
 
 !SLIDE smaller
@@ -90,9 +83,7 @@
 
     @@@ javascript
     var user = db.findOne({name: "Mathias Meyer"})
-    
     user.name = "Darth Vader"
-    
     db.users.save(user)
 
 !SLIDE bullets incremental
@@ -199,22 +190,14 @@
 
     @@@javascript
     var result = db.users.mapReduce(function() {
-      
       (this.offspring || []).forEach(function(o) {
-        
         emit(o, {count: 1});
-        
       })
     }, function(key, values) {
-      
       var total = 0;
-      
       for (var i = 0; i < values.length; i++) {
-        
         total += values[i].count;
-        
       }
-      
       return {count:total};
     })
 
@@ -222,7 +205,5 @@
 
     @@@ javascript
     db[result.result].find()
-    
     {"_id": "Jared", "value": {"count": 1 }}
-    
     {"_id": "Mari", "value": {"count": 2 }}

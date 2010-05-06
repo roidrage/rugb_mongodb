@@ -28,3 +28,7 @@ div.slide {
 span.current:before, span.current:after {
   content: url(leaf.png);
 }
+
+code {
+  line-height: 42px;
+}

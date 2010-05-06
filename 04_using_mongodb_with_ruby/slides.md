@@ -27,3 +27,10 @@
                        :dark_side => true)
                        
     db['users'].find.collect{|u| u['name']}
+  
+
+!SLIDE ruby
+
+# MongoMapper #
+
+    @@@ ruby
