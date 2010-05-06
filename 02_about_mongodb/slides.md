@@ -21,7 +21,7 @@
 
 # MongoDB #
 
-* It's fast!
+* Golly, it's fast!
 * For a reason
 
 !SLIDE bullets incremental
@@ -79,7 +79,7 @@
 
 # Collections #
 
-* Contain structure data
+* Contain similar data
 * Like a relational table
 * The reason being...
 
