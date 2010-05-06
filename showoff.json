@@ -2,5 +2,8 @@
   {"section": "01_introduction"},
   {"section": "02_about_mongodb"},
   {"section": "03_using_mongodb"},
-  {"section": "04_using_mongodb_with_ruby"}
+  {"section": "04_using_mongodb_with_ruby"},
+  {"section": "05_scaling_out"},
+  {"section": "06_the_dark_side_of_mongodb"},
+  {"section": "07_wrapup"}
 ]
