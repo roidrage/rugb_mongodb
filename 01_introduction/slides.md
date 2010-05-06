@@ -13,5 +13,3 @@
 !SLIDE center
 ![Scalarium](scalarium.png)
 # Awesome Cloud Management #
-
-!SLIDE center

@@ -1,3 +1,13 @@
+!SLIDE bullets
+
+# Agenda #
+
+* About MongoDB
+* <span class="current">Using MongoDB</span>
+* Using MongoDB with Ruby
+* Scaling Out
+* The Dark Side of MongoDB
+
 !SLIDE center
 
 # Installation #

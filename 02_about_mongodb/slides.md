@@ -1,3 +1,13 @@
+!SLIDE bullets
+
+# Agenda #
+
+* <span class="current">About MongoDB</span>
+* Using MongoDB
+* Using MongoDB with Ruby
+* Scaling Out
+* The Dark Side of MongoDB
+
 !SLIDE bullets incremental
 
 # MongoDB #
@@ -6,6 +16,13 @@
 * Schemaless
 * Dynamic Queries
 * Map/Reduce
+
+!SLIDE bullets incremental
+
+# MongoDB #
+
+* It's fast!
+* For a reason
 
 !SLIDE bullets incremental
 

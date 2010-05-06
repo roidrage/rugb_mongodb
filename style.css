@@ -24,3 +24,7 @@ div.slide {
   background-position: 95% 3%;
   -webkit-background-size: 15% auto;
 }
+
+span.current:before, span.current:after {
+  content: url(leaf.png);
+}
