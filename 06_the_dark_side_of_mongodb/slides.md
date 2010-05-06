@@ -64,3 +64,10 @@
 * Writes to disk are not atomic
 * Crash during a write?
 * Potentially corrupt data
+
+!SLIDE bullets incremental
+
+# So it's fast for a reason #
+
+* Or several to be exact
+* Tradeoffs vs. Awesomeness
