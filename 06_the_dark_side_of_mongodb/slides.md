@@ -71,3 +71,18 @@
 
 * Or several to be exact
 * Tradeoffs vs. Awesomeness
+
+!SLIDE bullets incremental
+
+# As Always #
+
+* It Depends™
+* Use Case and Tradeoffs must be considered
+
+!SLIDE bullets incremental
+
+# MongoDB #
+
+* Ease of Use and Speed
+* Be aware of the Tradeoffs
+* You should play!
